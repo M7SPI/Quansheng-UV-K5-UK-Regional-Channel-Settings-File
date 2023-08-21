@@ -1,4 +1,4 @@
-<p># Quansheng-UV-K5-UK-Regional-Channel-Settings-File</p>
+<p>Quansheng-UV-K5-UK-Regional-Channel-Settings-File</p>
 
 <p>These are my UK regional channel setting files for the quansheng uv-k5.</p>
 
