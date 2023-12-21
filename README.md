@@ -6,7 +6,7 @@
 
 <p>The img files are to be used with chirp next programming software.</p>
 
-<p>The cxf files are to be used with original quansheng programming software.</p>
+https://trac.chirp.danplanet.com/download?stream=next
 
 <p>This is mainly for licensed hams but dont mind helping those that are learning and just want to listen in to your local repeaters.</p>
 
